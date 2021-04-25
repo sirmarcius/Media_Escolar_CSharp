@@ -25,7 +25,6 @@ class MediaEscolar {
         Console.WriteLine("Aluno Reprovado");
     } 
     
-      
   }
   
 }
