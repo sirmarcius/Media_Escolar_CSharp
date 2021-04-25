@@ -1,7 +1,6 @@
-
 using System;
 class MediaEscolar {
-  static void Main() {
+  static void Main(string[] args) {
     
     // Recebe a primeira nota
     Console.Write("Qual a primeira nota? ");
